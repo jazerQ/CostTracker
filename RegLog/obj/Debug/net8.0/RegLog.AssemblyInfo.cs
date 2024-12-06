@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RegLog")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd81b4710c4d25cf5940a8591c8b38b363f88c12")]
 [assembly: System.Reflection.AssemblyProductAttribute("RegLog")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RegLog")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
